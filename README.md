@@ -1,11 +1,24 @@
-# Expo Sample Project
+# SOVTECH TEST
 
-![N|Solid](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s200-k-no-rp-mo)
+!
 
-Hey everyone! This repository is a a very minimal sample to go along with the youtube video explaining how to create a new project in expo with a typescript template.
+Hi, this is the solution to the test i recieved from Sovtech.com Through (Amy Mitchell) for Mobile(react native) engineer role.
 
-The video uses guides from Expo's dev documentation as well as some basic coding to show you how to get a quick react native project up and running.
+Thank you for the opportunity. 
 
-License
-----
-MIT
+
+                   THIS APP WAS BUILT WITH
+                    ------------------
+* ReactNative.
+* Typescript.
+* Expo.
+* Git.
+* Reactnative Stylesheet(for  basic styling).
+
+                      TO RUN THE APP.
+                    ------------------
+
+* Clone this repo.
+* Run Npm install.
+* Run expo start. 
+
